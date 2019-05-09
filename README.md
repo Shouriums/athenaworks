@@ -1,6 +1,11 @@
 # athenaworks
-
+## Install Vue
+```
+To install vue follow the steps here:
+https://vuejs.org/v2/guide/installation.html
+```
 ## Project setup
+
 ```
 yarn install
 ```
